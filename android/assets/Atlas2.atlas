@@ -1,0 +1,41 @@
+
+Atlas2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion
+  rotate: false
+  xy: 1204, 1001
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+laserEnemy
+  rotate: false
+  xy: 2, 2
+  size: 417, 269
+  orig: 417, 269
+  offset: 0, 0
+  index: -1
+leftarrow
+  rotate: false
+  xy: 2, 905
+  size: 1200, 630
+  orig: 1200, 630
+  offset: 0, 0
+  index: -1
+mute
+  rotate: false
+  xy: 1204, 1035
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+rightarrow
+  rotate: false
+  xy: 2, 273
+  size: 1200, 630
+  orig: 1200, 630
+  offset: 0, 0
+  index: -1

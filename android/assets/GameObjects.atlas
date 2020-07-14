@@ -1,0 +1,27 @@
+
+GameObjects.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Asteroid Brown
+  rotate: false
+  xy: 2, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+ChaseSpaceship
+  rotate: false
+  xy: 421, 142
+  size: 173, 291
+  orig: 173, 291
+  offset: 0, 0
+  index: -1
+laserEnemy
+  rotate: false
+  xy: 2, 164
+  size: 417, 269
+  orig: 417, 269
+  offset: 0, 0
+  index: -1

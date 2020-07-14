@@ -1,0 +1,40 @@
+
+unnamed.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+leftarrow
+  rotate: false
+  xy: 634, 634
+  size: 1200, 630
+  orig: 1200, 630
+  offset: 0, 0
+  index: -1
+rightarrow
+  rotate: false
+  xy: 634, 2
+  size: 1200, 630
+  orig: 1200, 630
+  offset: 0, 0
+  index: -1
+uparrow
+  rotate: false
+  xy: 2, 64
+  size: 630, 1200
+  orig: 630, 1200
+  offset: 0, 0
+  index: -1
+
+unnamed2.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+downarrow
+  rotate: false
+  xy: 2, 2
+  size: 630, 1200
+  orig: 630, 1200
+  offset: 0, 0
+  index: -1

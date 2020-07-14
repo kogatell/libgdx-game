@@ -1,0 +1,83 @@
+
+AtlasGame.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Asteroid Brown
+  rotate: false
+  xy: 1006, 342
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+ChaseSpaceship
+  rotate: false
+  xy: 1006, 504
+  size: 173, 291
+  orig: 173, 291
+  offset: 0, 0
+  index: -1
+DoubleShot
+  rotate: false
+  xy: 177, 103
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 1354, 1310
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+hardcore
+  rotate: false
+  xy: 2, 295
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+mega-laser-1
+  rotate: false
+  xy: 504, 295
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 1275, 1038
+  size: 34, 160
+  orig: 34, 160
+  offset: 0, 0
+  index: -1
+spaceship
+  rotate: false
+  xy: 2, 2
+  size: 173, 291
+  orig: 173, 291
+  offset: 0, 0
+  index: -1
+spr_shield
+  rotate: false
+  xy: 1354, 1344
+  size: 556, 556
+  orig: 556, 556
+  offset: 0, 0
+  index: -1
+startbutton
+  rotate: false
+  xy: 2, 797
+  size: 1271, 401
+  orig: 1271, 401
+  offset: 0, 0
+  index: -1
+ufo
+  rotate: false
+  xy: 2, 1200
+  size: 1350, 700
+  orig: 1350, 700
+  offset: 0, 0
+  index: -1
